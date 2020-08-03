@@ -1,6 +1,6 @@
 # Churn_Rate_Codeflix
 
-Four months into launching Codeflix and I've been aske to look into subscription churn rates. It’s early on in the business with people excited to know how the company is doing.
+Four months into launching Codeflix and I've been asked to look into subscription churn rates. It’s early on in the business with people excited to know how the company is doing.
 
 The marketing department's particularly interested in how the churn compares between two segments of users. They provided a dataset containing subscription data for
 users who were acquired through two distinct channels.
